@@ -1,0 +1,40 @@
+{
+  "lead_info": {},
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling SmileCare Dental, this is Riya. How can I help you today?",
+      "timestamp": "2026-10-09T10:35:16.986424+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Hi Ria, how are you?",
+      "timestamp": "2026-10-09T10:35:23.845306+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm doing well, thank you for asking. How can I assist you with your dental care today?",
+      "timestamp": "2026-10-09T10:35:23.913132+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Okay, so I just wanted to book an appointment to Dr. Mehta. Like is it available today?",
+      "timestamp": "2026-10-09T10:35:33.539069+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm sorry you're needing an appointment. To help me find the right time, what kind of symptoms or concerns are you experiencing?",
+      "timestamp": "2026-10-09T10:35:33.875357+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Okay, so from the last night I like brutal pain on my root canal. So like can you just help me?",
+      "timestamp": "2026-10-09T10:35:48.462770+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm sorry you're dealing with that brutal pain. Dr. Mehta handles root canal issues, and I'll connect you with the front desk right now so they can get you in for urgent care.",
+      "timestamp": "2026-10-09T10:35:50.479248+00:00"
+    }
+  ]
+}

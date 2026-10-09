@@ -1,0 +1,133 @@
+{
+  "lead_info": {
+    "name": "Rita",
+    "phone": "12345"
+  },
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling SmileCare Dental, this is Riya. How can I assist you today?",
+      "timestamp": "2026-10-09T10:48:42.749720+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "How are you?",
+      "timestamp": "2026-10-09T10:48:49.803391+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm doing well, thank you. How can I help you with your dental care today?",
+      "timestamp": "2026-10-09T10:48:49.803962+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Okay, so I just wanted to know like is there any doctor available for the root canal?",
+      "timestamp": "2026-10-09T10:49:01.203163+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "For root canals, you'll want to see Dr. Rohan Mehta, our endodontist. He is in on Monday, Wednesday, and Friday, from nine AM to four PM. Would you like me to schedule an appointment?",
+      "timestamp": "2026-10-09T10:49:01.212200+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Okay, so I just wanted to know like is he is the best doctor like to concern like to consultant with the patient and the",
+      "timestamp": "2026-10-09T10:49:23.724034+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Dr. Mehta is our specialist for root canals. He will be able to advise on the exact care needed after he completes an exam. Would you like to schedule a time with him?",
+      "timestamp": "2026-10-09T10:49:23.726281+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Okay, so I just wanted to know more about Dr. Mehta like at what time like he is available and actually like I was free on tomorrow. So like he's available tomorrow or not?",
+      "timestamp": "2026-10-09T10:49:46.747091+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Dr. Mehta is in on Monday, Wednesday, and Friday, from nine AM to four PM, so he isn't available tomorrow. Would Monday work for you?",
+      "timestamp": "2026-10-09T10:49:47.652821+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Okay. Great. So, can you just schedule an appointment for me with Dr. Mehta?",
+      "timestamp": "2026-10-09T10:50:02.010310+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Of course. What brings you in to see Dr. Mehta?",
+      "timestamp": "2026-10-09T10:50:02.692149+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Sorry.",
+      "timestamp": "2026-10-09T10:50:08.466664+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "No problem at all. May I ask what symptoms or reason you'd like to see Dr. Mehta for?",
+      "timestamp": "2026-10-09T10:50:08.470770+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Okay, so I have a like brutal pain on my root canal, so I just wanted to concern with the Dr. Mehta so they can suggest me some solutions and like provide me the proper treatment.",
+      "timestamp": "2026-10-09T10:50:24.809223+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm so sorry you're dealing with that pain. I'll need your name to check Dr. Mehta's availability for an emergency visit.",
+      "timestamp": "2026-10-09T10:50:25.388324+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Okay, so my name is Rita.",
+      "timestamp": "2026-10-09T10:50:34.847589+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you, Rita. Let me check Dr. Mehta's schedule right away to find the earliest opening for you today.",
+      "timestamp": "2026-10-09T10:50:36.289268+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Yeah, please. Can you just like tell me like when he is available like? Is he like available in tomorrow like? This is like the emergency case.",
+      "timestamp": "2026-10-09T10:50:57.068466+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Dr. Mehta is in today until four PM, so I can offer you an emergency slot this afternoon if that works for you.",
+      "timestamp": "2026-10-09T10:50:58.879174+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Yeah, yeah, that's great. Thank you so much.",
+      "timestamp": "2026-10-09T10:51:08.798786+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm having a slight issue with my system; let me call you right back to confirm the exact afternoon time with Dr. Mehta.",
+      "timestamp": "2026-10-09T10:51:09.926829+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Okay, sure. No problem. Thank you.",
+      "timestamp": "2026-10-09T10:51:20.197802+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I apologize for the technical delay. May I have your phone number so the team can call you right back to secure your emergency slot?",
+      "timestamp": "2026-10-09T10:51:21.307747+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Yeah, okay. Note down my number 1 2 3 4 5.",
+      "timestamp": "2026-10-09T10:51:33.073852+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I have noted down your number, and the team will be in touch shortly to assist you with your appointment. Have a wonderful day.",
+      "timestamp": "2026-10-09T10:51:34.217466+00:00"
+    }
+  ]
+}

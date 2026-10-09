@@ -1,0 +1,50 @@
+{
+  "lead_info": {},
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "Welcome to SmileCare Dental, this is Riya. How may I help you?",
+      "timestamp": "2026-10-09T10:36:09.384352+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Aria, how are you?",
+      "timestamp": "2026-10-09T10:36:15.693762+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm doing well, thank you for asking. How can I assist you with your dental care today?",
+      "timestamp": "2026-10-09T10:36:15.696137+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Okay, so I just wanted to book an appointment to Dr. Mehta. Like is it available today?",
+      "timestamp": "2026-10-09T10:36:25.006789+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I can check that for you. To make sure I suggest the right care, could you please tell me what's going on?",
+      "timestamp": "2026-10-09T10:36:25.333232+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Okay, so I have like a brutal pain on my root canal. So like is he is available today? So it is like very beneficial for me.",
+      "timestamp": "2026-10-09T10:36:40.433067+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm truly sorry you're dealing with such brutal pain. That is certainly something Dr. Mehta, our endodontist, handles, and we will prioritize getting you in today.I'm sorry you're dealing with such severe pain. Since I don't see his real-time schedule, let me connect you with our front desk so we can find you the earliest time today.",
+      "timestamp": "2026-10-09T10:36:40.933898+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "So can you just like tell me the timings of Dr. Mehta so I can like directly reach at your clinic?",
+      "timestamp": "2026-10-09T10:37:06.959855+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Dr. Mehta is available on Mondays, Wednesdays, and Fridays, and I'll connect you with our front desk to get you scheduled today.",
+      "timestamp": "2026-10-09T10:37:08.264164+00:00"
+    }
+  ]
+}

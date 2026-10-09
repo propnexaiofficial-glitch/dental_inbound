@@ -1,0 +1,55 @@
+{
+  "lead_info": {},
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "Welcome to SmileCare Dental, this is Riya. How can I help you today?",
+      "timestamp": "2026-10-09T10:32:30.888837+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Hi dear, how are you?",
+      "timestamp": "2026-10-09T10:32:37.375092+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm doing well, thank you for asking. How can I help you with SmileCare Dental today?",
+      "timestamp": "2026-10-09T10:32:37.700941+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Okay, so I just wanted to book an appointment. So can you help me regarding that?",
+      "timestamp": "2026-10-09T10:32:48.721954+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I can certainly help you with that. Could you please tell me what you'd like to come in for today?",
+      "timestamp": "2026-10-09T10:32:48.937515+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Okay, so I have like a pain in my root canal, so I just wanted to concern with the doctor.",
+      "timestamp": "2026-10-09T10:33:02.157886+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm sorry to hear you're experiencing pain. For a root canal concern, Dr. Mehta, our endodontist, is the right person to see. Would you like me to find a time for you?",
+      "timestamp": "2026-10-09T10:33:02.769532+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Okay, so at what time like Dr. Mehta are available?",
+      "timestamp": "2026-10-09T10:33:17.947971+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I apologize, but I don't have direct access to his schedule right now. May I have a team member call you back to confirm a time?",
+      "timestamp": "2026-10-09T10:33:18.812984+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "What is the timing of Dr. Mehta? Can you just tell me that? Hello, Riya, are you there?",
+      "timestamp": "2026-10-09T10:33:30.902659+00:00"
+    }
+  ]
+}

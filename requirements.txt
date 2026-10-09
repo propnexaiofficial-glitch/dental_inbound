@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+google-genai
+python-dotenv
+python-dateutil
+numpy
+sounddevice
+audioop-lts; python_version >= "3.13"

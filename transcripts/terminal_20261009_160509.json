@@ -1,0 +1,45 @@
+{
+  "lead_info": {},
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling SmileCare Dental, this is Riya. How may I assist you today?",
+      "timestamp": "2026-10-09T10:33:54.746180+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Hi Riya, how are you?",
+      "timestamp": "2026-10-09T10:34:01.464548+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm doing well, thank you. How can I help you with your dental needs today?",
+      "timestamp": "2026-10-09T10:34:01.490711+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "Okay, so I just wanted to know like is there any doctor regarding the root canal?",
+      "timestamp": "2026-10-09T10:34:11.382486+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, we have Dr. Rohan Mehta, our endodontist, who specializes in root canals. Is this for yourself or someone else?",
+      "timestamp": "2026-10-09T10:34:11.581266+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "No, no, I just wanted to book an appointment for the doctor. Rohan Mehta. Like, is it available today?",
+      "timestamp": "2026-10-09T10:34:26.436984+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I apologize, but I cannot check the schedule right now. Would you like me to transfer you to the front desk to assist with booking?",
+      "timestamp": "2026-10-09T10:34:27.617068+00:00"
+    },
+    {
+      "speaker": "caller",
+      "text": "So, can you just tell me the timings of Dr. Mehta? Hello, are you there? Hello, Riya.",
+      "timestamp": "2026-10-09T10:34:40.397306+00:00"
+    }
+  ]
+}
