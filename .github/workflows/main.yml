@@ -1,0 +1,32 @@
+name: Deploy to Hostinger VPS
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USER }}
+          password: ${{ secrets.VPS_PASSWORD }}
+          script: |
+            set -e
+            cd /root/dental_inbound
+            git pull origin main
+            source venv/bin/activate
+            pip install -r requirements.txt
+            systemctl restart dental_inbound
+            sleep 3
+            systemctl is-active dental_inbound
+
+
+
+
+
+            
